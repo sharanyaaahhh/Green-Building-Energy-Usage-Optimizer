@@ -8,3 +8,29 @@ The AI/ML layer forms the intelligence engine of the system. Machine learning al
 A feedback loop continuously monitors the impact of implemented actions, allowing the model to learn, improve accuracy, and refine recommendations over time. This combination of dynamic learning and robust engineering enables the solution to adapt to changing environments without manual intervention.
 
 The Green Building Energy Usage Optimizer ultimately helps organizations reduce operational costs, maintain environmental compliance, and progress toward sustainability goals. By merging strong software engineering practices with powerful AI/ML techniques, the project demonstrates how intelligent automation can transform building management into an efficient, data-driven, and eco-friendly process.
+
+📊 ASHRAE – Great Energy Predictor III Dataset
+Source: Kaggle Competition (Hosted by ASHRAE – American Society of Heating, Refrigerating and Air-Conditioning Engineers)
+Dataset Size: 20+ million meter readings from 1,449 buildings
+Duration: One full year of hourly energy consumption data
+
+🔌 Energy Types Included
+Electricity
+Chilled Water
+Steam
+Hot Water
+
+🏛️ Building Metadata
+Square footage
+Primary use
+Year built
+
+🌦️ Weather Data
+Air temperature
+Dew point
+Wind speed
+
+⏱️ Temporal Features
+Hour
+Day
+Month
